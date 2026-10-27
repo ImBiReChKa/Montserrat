@@ -1,6 +1,4 @@
-// ИИ: Claude написал эту функцию (подгоняет ширину надписей под макет). Запись №1 в README
-(function () {
-  function fit() {
+ function fit() {
     document.querySelectorAll(".fit").forEach(function (el) {
       var sec = el.closest("section");
       el.style.fontSize = "";
