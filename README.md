@@ -4,7 +4,7 @@
 
 ## Ссылка на сайт
 
-[ВСТАВЬТЕ АДРЕС: https://imbirechka.github.io/Montserrat/]
+[https://imbirechka.github.io/Montserrat/]
 
 ## Скриншот
 
